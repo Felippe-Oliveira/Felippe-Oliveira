@@ -9,6 +9,7 @@ Estes são meus estudos atuais:
 Cursando:
 
 - **Data Science - DNC group**
+- **Ciência de dados - EBAC**
 - **PÓS em análise e desenvolvimento de sistemas - Faculdade Descomplica**
 - **PÓS em análise de dados - Faculdade Descomplica**
 - **MBA em Big Data e inteligência competitiva - Faculdade Descomplica**
